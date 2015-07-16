@@ -1,12 +1,12 @@
 # SilentGodTeamBlog
 
 ## 博客更新步骤
-1. 将该仓库更新拉回本地：
-  ```git pull```
-  如果尚未克隆到本地，则执行：
+1. 将该仓库更新拉回本地：    
+  ```git pull```    
+  如果尚未克隆到本地，则执行：  
   ``` git clone git@github.com:SilentGod/SilentGodTeamBlog.git ```
 
-2. hexo 程序安装
+2. hexo 程序安装    
   ``` npm install ```
 
 3. 修改博客内容
