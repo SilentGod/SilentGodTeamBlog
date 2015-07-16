@@ -6,14 +6,15 @@
   如果尚未克隆到本地，则执行：  
   ``` git clone git@github.com:SilentGod/SilentGodTeamBlog.git ```
 
-2. hexo 程序安装    
-  ``` npm install ```
+2. hexo 程序安装  
+  1. 切换到博客文件夹（SilentGodTeamBlog）： ``` cd SilentGodTeamBlog ```
+  2. 安装： ``` npm install ```
 
 3. 修改博客内容
   - 修改文章：
     1. 打开source/_post文件夹下的md文章文件，修改，保存。
     2. 发布：
-      1. 切换到博客文件夹（SilentGodTeamBlog）： ``` cd SilentGodTeamBlog ```
+      1. 切换到博客文件夹
       2. 使用```hexo d -g```命令发布。
   - 添加文章：
     1. 切换到博客文件夹
