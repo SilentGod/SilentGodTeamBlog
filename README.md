@@ -1,6 +1,9 @@
 # SilentGodTeamBlog
 
 ## 博客更新步骤
+
+初始条件：已安装 git、node.js、hexo
+
 1. 将该仓库更新拉回本地：    
   ```git pull```    
   如果尚未克隆到本地，则执行：  
